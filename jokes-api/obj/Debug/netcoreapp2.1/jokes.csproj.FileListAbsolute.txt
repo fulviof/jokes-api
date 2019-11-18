@@ -1,0 +1,14 @@
+C:\Users\fanelli\source\repos\jokes-api\jokes-api\bin\Debug\netcoreapp2.1\jokes.deps.json
+C:\Users\fanelli\source\repos\jokes-api\jokes-api\bin\Debug\netcoreapp2.1\jokes.runtimeconfig.json
+C:\Users\fanelli\source\repos\jokes-api\jokes-api\bin\Debug\netcoreapp2.1\jokes.runtimeconfig.dev.json
+C:\Users\fanelli\source\repos\jokes-api\jokes-api\bin\Debug\netcoreapp2.1\jokes.dll
+C:\Users\fanelli\source\repos\jokes-api\jokes-api\bin\Debug\netcoreapp2.1\jokes.pdb
+C:\Users\fanelli\source\repos\jokes-api\jokes-api\obj\Debug\netcoreapp2.1\jokes.csprojAssemblyReference.cache
+C:\Users\fanelli\source\repos\jokes-api\jokes-api\obj\Debug\netcoreapp2.1\jokes.csproj.CoreCompileInputs.cache
+C:\Users\fanelli\source\repos\jokes-api\jokes-api\obj\Debug\netcoreapp2.1\jokes.RazorAssemblyInfo.cache
+C:\Users\fanelli\source\repos\jokes-api\jokes-api\obj\Debug\netcoreapp2.1\jokes.RazorAssemblyInfo.cs
+C:\Users\fanelli\source\repos\jokes-api\jokes-api\obj\Debug\netcoreapp2.1\jokes.AssemblyInfoInputs.cache
+C:\Users\fanelli\source\repos\jokes-api\jokes-api\obj\Debug\netcoreapp2.1\jokes.AssemblyInfo.cs
+C:\Users\fanelli\source\repos\jokes-api\jokes-api\obj\Debug\netcoreapp2.1\jokes.RazorTargetAssemblyInfo.cache
+C:\Users\fanelli\source\repos\jokes-api\jokes-api\obj\Debug\netcoreapp2.1\jokes.dll
+C:\Users\fanelli\source\repos\jokes-api\jokes-api\obj\Debug\netcoreapp2.1\jokes.pdb
